@@ -1,6 +1,7 @@
 .holder{
 	display:flex;
 	justify-content:space-between;
+	flex-wrap:wrap;
 	
 }
 
@@ -9,7 +10,6 @@
 	width:100px;
 	background-color:red;
 	order:2;
-	flex-wrap:wrap;
 }
 .box2{
 	height:100px;
